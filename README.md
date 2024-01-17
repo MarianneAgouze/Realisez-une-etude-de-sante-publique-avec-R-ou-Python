@@ -3,7 +3,7 @@ Data analyst au sein d'une équipe de chercheurs de la Food and Agriculture Orga
 
 Dans le cadre de ce projet, les données ont été traitées en utilisant Python sur Jupyter Notebook. Cela a permis d'identifier les premières tendances et de faire des estimations sur divers aspects, notamment la population mondiale pouvant être sustentée par la disponibilité alimentaire, qu'elle soit d'origine végétale ou animale, et l'évaluation du nombre de personnes en situation de sous-nutrition. D'autres ratios ont également été calculés dans le but de mettre en relief les pays qui semblent être le plus en difficulté au niveau alimentaire. 
 
-Compétences évaluées:
+Compétences acquises:
 
 * Manipuler des DataFrames.
 * Appliquer l'algèbre relationnelle( jointure),restriction (.loc et/ou sélection de colonnes) et agrégation sur Python.
